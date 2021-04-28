@@ -24,7 +24,6 @@
   </div>
       </div>
 
-  <router-view />
 </nav>
 </template>
 
